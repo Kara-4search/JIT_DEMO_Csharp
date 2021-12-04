@@ -3,10 +3,8 @@
 Blog link: not gonna update
 
 - A Demo to replace method with JIT(Or we could called "creating managed hooks")
-- There is a little different between "DEBUG" and "RELEASE"
-	1. # DEBUG
-	2. # else
-	3. # endif
+- The DEBUG block in Project.cs line 121 is for debuging.
+- Abount getting function address is kind of different betweent debuging or compiling
 
 ## Usage
 - Just a Demo
