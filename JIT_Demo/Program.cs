@@ -123,7 +123,6 @@ namespace JIT_Demo
                     byte* injInst = (byte*)*inj;
                     byte* tarInst = (byte*)*tar;
 
-
                     int* injSrc = (int*)(injInst + 1);
                     int* tarSrc = (int*)(tarInst + 1);
 
