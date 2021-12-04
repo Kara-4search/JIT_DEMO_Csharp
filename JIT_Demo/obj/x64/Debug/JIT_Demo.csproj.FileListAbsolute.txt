@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\bin\x64\Debug\JIT_Demo.exe.config
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\bin\x64\Debug\JIT_Demo.exe
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\bin\x64\Debug\JIT_Demo.pdb
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\obj\x64\Debug\JIT_Demo.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\obj\x64\Debug\JIT_Demo.exe
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\obj\x64\Debug\JIT_Demo.pdb
+C:\Project\Projects\Project_JIT_Demo\JIT_Demo\JIT_Demo\obj\x64\Debug\JIT_Demo.csprojAssemblyReference.cache
