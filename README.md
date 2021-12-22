@@ -9,7 +9,7 @@ Blog link: not gonna update
 ## Usage
 - Just a Demo
 	1.The picture down below is the running result.
-		* The format of the Relative Address below is wrong,but it been fixed.
+	- The format of the Relative Address below is wrong,but it been fixed.
 	![avatar](https://raw.githubusercontent.com/Kara-4search/ProjectPics/main/JIT_Demo.png)
 ## TO-DO list
 - None
