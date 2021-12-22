@@ -9,12 +9,13 @@ Blog link: not gonna update
 ## Usage
 - Just a Demo
 	1.The picture down below is the running result.
+		* The format of the Relative Address below is wrong,but it been fixed.
 	![avatar](https://raw.githubusercontent.com/Kara-4search/ProjectPics/main/JIT_Demo.png)
 ## TO-DO list
 - None
 
 ## Update history
-- None
+- Fixed bug: Relative Address output in wrong format - 20211222
 
 ## Reference link:
 	1. https://docs.microsoft.com/zh-cn/dotnet/api/system.runtime.compilerservices.runtimehelpers.preparemethod?view=net-6.0

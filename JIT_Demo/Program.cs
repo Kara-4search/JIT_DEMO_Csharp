@@ -97,16 +97,16 @@ namespace JIT_Demo
                     
 
                     Console.WriteLine("*Pointer Address");
-                    Console.WriteLine($"\t[*] Relative Address: 0x{(IntPtr)inj:X16}");
-                    Console.WriteLine($"\t[*] Relative Address: 0x{(IntPtr)tar:X16}\n");
+                    Console.WriteLine($"\t[*] Relative Address: 0x{((IntPtr)inj).ToInt64():X16}");
+                    Console.WriteLine($"\t[*] Relative Address: 0x{((IntPtr)tar).ToInt64():X16}\n");
 
 
                     IntPtr pMethod = methodToInject.MethodHandle.GetFunctionPointer();
                     IntPtr pMethod2 = methodToReplace.MethodHandle.GetFunctionPointer();
 
                     Console.WriteLine("pPointer Address");
-                    Console.WriteLine($"\t[*] Relative Address: 0x{pMethod:X16}");
-                    Console.WriteLine($"\t[*] Relative Address: 0x{pMethod2:X16}\n");
+                    Console.WriteLine($"\t[*] Relative Address: 0x{pMethod.ToInt64():X16}");
+                    Console.WriteLine($"\t[*] Relative Address: 0x{pMethod2.ToInt64():X16}\n");
                     Console.Write($"{Marshal.ReadByte(pMethod, -1):X2} # ");
                     Console.Write($"{Marshal.ReadByte(pMethod, 0):X2}");
                     Console.Write($"{Marshal.ReadByte(pMethod, 1):X2}");
